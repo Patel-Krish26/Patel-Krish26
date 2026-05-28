@@ -35,6 +35,7 @@
 
 ---
 
+
 # 💫 About Me
 
 ```yaml
@@ -64,6 +65,7 @@ Goal:
 🎯 Goal: Become an industry-level Software Engineer
 🌍 Love solving real-world problems with clean architecture
 📚 Continuous learner exploring modern technologies every day
+
 
 ---
 
