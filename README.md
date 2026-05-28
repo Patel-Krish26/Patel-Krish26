@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:2563eb,100:7c3aed&text=KRISH%20PATEL&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
